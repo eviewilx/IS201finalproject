@@ -1,0 +1,26 @@
+body{
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 15px;
+    color: rgb(53, 49, 49);
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+a{
+    color: rgb(100, 2, 43);
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.justify{
+    text-align: justify;
+}
+
+.hobbiesbg{
+    background-color: rgb(255, 255, 255);
+}
